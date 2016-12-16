@@ -3,7 +3,7 @@
 
     <!-- General -->
     <string name="app_name">qeuBot</string>
-    <string name="app_version">Version 1.05</string>
+    <string name="app_version">Version\u0020</string>
     <string name="acc_desc">Required to be switched on for qeuBot to work. Your privacy is maintained and no data is collected at all.</string>
     <string name="ok">OK</string>
     <string name="cancel">Cancel</string>
@@ -25,6 +25,9 @@
     <string name="giphy_pref_cat">Giphy</string>
     <string name="about_pref_cat">About</string>
     <string name="extra_pref_cat">Extras</string>
+    <string name="wikipedia_pref_cat">Wikipedia</string>
+    <string name="translators_pref_cat">Translators</string>
+    <string name="settings_pref_cat">Settings</string>
 
     <!-- Preference Titles -->
     <string name="append_title">Append app name to result</string>
@@ -43,6 +46,7 @@
     <string name="buy_title">Buy App</string>
     <string name="wa_title">Choose unofficial WhatsApp Mod</string>
     <string name="show_toast_title">Show toast on command</string>
+    <string name="wiki_language_title">Set Wikipedia language</string>
 
     <!-- Preference Summaries -->
     <string name="append_sum">Appends app name to the end of result</string>
